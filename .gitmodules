@@ -1,0 +1,6 @@
+[submodule "jsf-spec-mojarra-readme"]
+	path = jsf-spec/mojarra-readme
+	url = git@github.com:jsf-spec/mojarra-readme.git
+[submodule "jsf-spec-mojarra"]
+	path = jsf-spec/mojarra
+	url = git@github.com:jsf-spec/mojarra.git
