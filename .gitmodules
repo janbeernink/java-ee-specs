@@ -28,3 +28,9 @@
 [submodule "javaee-security-spec-spec-api"]
 	path = javaee-security-spec/spec-api
 	url = git@github.com:javaee-security-spec/spec-api.git
+[submodule "cdi-spec-cdi"]
+	path = cdi-spec/cdi
+	url = git@github.com:cdi-spec/cdi.git
+[submodule "cdi-spec-cdi-tck"]
+	path = cdi-spec/cdi-tck
+	url = git@github.com:cdi-spec/cdi-tck.git
