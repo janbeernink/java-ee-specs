@@ -4,3 +4,27 @@
 [submodule "jsf-spec-mojarra"]
 	path = jsf-spec/mojarra
 	url = git@github.com:jsf-spec/mojarra.git
+[submodule "jms-spec-jms-examples"]
+	path = jms-spec/jms-examples
+	url = git@github.com:jms-spec/jms-examples.git
+[submodule "jms-spec-jms-proposals"]
+	path = jms-spec/jms-proposals
+	url = git@github.com:jms-spec/jms-proposals.git
+[submodule "mvc-spec-ozark"]
+	path = mvc-spec/ozark
+	url = git@github.com:mvc-spec/ozark.git
+[submodule "mvc-spec-mvc-spec"]
+	path = mvc-spec/mvc-spec
+	url = git@github.com:mvc-spec/mvc-spec.git
+[submodule "javaee-security-spec-soteria"]
+	path = javaee-security-spec/soteria
+	url = git@github.com:javaee-security-spec/soteria.git
+[submodule "javaee-security-spec-javaee-security-proposals"]
+	path = javaee-security-spec/javaee-security-proposals
+	url = git@github.com:javaee-security-spec/javaee-security-proposals.git
+[submodule "javaee-security-spec-javaee-security-examples"]
+	path = javaee-security-spec/javaee-security-examples
+	url = git@github.com:javaee-security-spec/javaee-security-examples.git
+[submodule "javaee-security-spec-spec-api"]
+	path = javaee-security-spec/spec-api
+	url = git@github.com:javaee-security-spec/spec-api.git
